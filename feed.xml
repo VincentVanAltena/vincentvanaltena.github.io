@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>testsite</title>
+    <link href="https://vincentvanaltena.github.io/feed.xml" rel="self" />
+    <link href="https://vincentvanaltena.github.io" />
+    <updated>2026-04-24T20:11:16+02:00</updated>
+    <author>
+        <name>trial and error</name>
+    </author>
+    <id>https://vincentvanaltena.github.io</id>
+
+    <entry>
+        <title>Eerste post</title>
+        <author>
+            <name>trial and error</name>
+        </author>
+        <link href="https://vincentvanaltena.github.io/eerste-post.html"/>
+        <id>https://vincentvanaltena.github.io/eerste-post.html</id>
+
+        <updated>2026-04-24T20:11:16+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

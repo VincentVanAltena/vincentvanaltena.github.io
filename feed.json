@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testsite",
+    "description": "",
+    "home_page_url": "https://vincentvanaltena.github.io",
+    "feed_url": "https://vincentvanaltena.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "trial and error"
+    },
+    "items": [
+        {
+            "id": "https://vincentvanaltena.github.io/eerste-post.html",
+            "url": "https://vincentvanaltena.github.io/eerste-post.html",
+            "title": "Eerste post",
+            "summary": "Test",
+            "content_html": "<p>Test</p>",
+            "author": {
+                "name": "trial and error"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-24T20:11:16+02:00",
+            "date_modified": "2026-04-24T20:11:16+02:00"
+        }
+    ]
+}
